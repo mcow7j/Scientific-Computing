@@ -90,9 +90,6 @@ def time_newSort(N,k,Merge=False):
 def findTrough(L):
     """Find and return a location of a trough in L
     """
-def findTrough(L):
-    """Find and return a location of a trough in L
-    """
     #find lenght of trough
     n = len(L)-1
     #check list is not empty
