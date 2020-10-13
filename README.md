@@ -5,11 +5,14 @@ Projects undertaken for Scientific Computing Module of Imperial College London. 
 Includes a review of an academic paper for an infection model utilising effective distance and an efficient implementation of its proposed infection model using between country transport data.
 
 ## Project 2
-### Part A:
-Focuses on Sorts and respective efficiencies.
+#### Overview of Part A: Sorts and Searching Algorithms
+* Implementation of a hybrid Merge and Selection sort Algorithm along with performance analysis and parameter optimization.
+* Implementation of Binary search Algorithm to find a trough in lists along with asymptotic running time analysis. 
+#### Overview Part B: Working with DNA sequences
+* Using Dictionaries to efficiently convert codon strings into Amino Acids, with algorithm performance analysis and discussion.  
+* Efficient implementation of Algorithm to find the “aligned” k-mer pairs in “adjacent” sequences (for more info see Project 2 Questions) along with relevant performance analysis with comparison with a Naïve approach. 
+* The Algorithm utilises a modified Rabin-Karp method. 
 
-### Part B:
-Focuses on efficient implementation and analysis of search algorithms for a variety of problems. 
 
 
 
