@@ -11,9 +11,11 @@ Projects undertaken for Scientific Computing Module of Imperial College London. 
 * The Algorithm utilises a modified Rabin-Karp method. 
 
 ## Project 2
+-- work in progress--
 #### Overview of Part 1:
 #### Overview of Part 2:
 ## Project 3 
+-- work in progress--
 #### Overview of Part 1:
 #### Overview of Part 2:
 ## Project 4
