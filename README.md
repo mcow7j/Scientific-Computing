@@ -16,3 +16,9 @@ Projects undertaken for Scientific Computing Module of Imperial College London. 
 
 ## Project 4
 Includes a review of [The Hidden Geometry of Complex, Network-Driven Contagion Phenomena by Brockmann & Helbing](https://science.sciencemag.org/content/342/6164/1337) with an efficent implementation of it's proprosed infection model and concept of effective distance using between country transport data.
+
+Graph below shows the basic features of the network.
+
+![image](https://user-images.githubusercontent.com/58078485/95978099-9e6b5800-0e11-11eb-9b40-cde51ba4cdd9.png)
+
+
