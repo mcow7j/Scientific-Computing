@@ -8,7 +8,7 @@ Includes a review of an academic paper for an infection model utilising effectiv
 #### Overview of Part 1: Sorts and Searching Algorithms
 * Implementation of a hybrid Merge and Selection sort Algorithm along with performance analysis and parameter optimization.
 * Implementation of Binary search Algorithm to find a trough in lists along with asymptotic running time analysis. 
-#### Overview Part 2: Working with DNA sequences
+#### Overview of Part 2: Working with DNA sequences
 * Using Dictionaries to efficiently convert codon strings into Amino Acids, with algorithm performance analysis and discussion.  
 * Efficient implementation of Algorithm to find the “aligned” k-mer pairs in “adjacent” DNA sequences (for more info see Project 2 Questions), along with relevant performance analysis with comparison with a Naïve approach. 
 * The Algorithm utilises a modified Rabin-Karp method. 
