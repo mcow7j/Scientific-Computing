@@ -2,7 +2,7 @@
 Projects undertaken for Scientific Computing Module of Imperial College London. Covers a variety of topics such as sorting algorithms, graph traversal, hashing, recommender systems and infection models.
 
 ## Project 1
-#### Overview of Part 1: Sorts and Searching Algorithms
+#### Overview of Part 1: Sort and Searching Algorithms
 * Implementation of a hybrid Merge and Selection sort Algorithm along with performance analysis and parameter optimization.
 * Implementation of Binary search Algorithm to find a trough in lists along with asymptotic running time analysis. 
 #### Overview of Part 2: Working with DNA sequences
