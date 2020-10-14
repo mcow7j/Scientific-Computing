@@ -2,7 +2,7 @@
 Projects undertaken for Scientific Computing Module of Imperial College London. Covers a variety of topics such as sorting algorithms, graph traversal, hashing, recommender systems and infection models.
 
 ## Project 1
-Includes a review of an academic paper for an infection model utilising effective distance and an efficient implementation of its proposed infection model using between country transport data.
+Includes a review of The Hidden Geometry of Complex, Network-Driven Contagion Phenomena by Brockmann & Helbing [https://science.sciencemag.org/content/342/6164/1337] with an efficent implementation of it's proprosed infection model and concept of effective distance using between country transport data.
 
 ## Project 2
 #### Overview of Part 1: Sorts and Searching Algorithms
