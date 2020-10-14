@@ -11,9 +11,11 @@ Projects undertaken for Scientific Computing Module of Imperial College London. 
 * The Algorithm utilises a modified Rabin-Karp method. 
 
 ## Project 2
-
+#### Overview of Part 1:
+#### Overview of Part 2:
 ## Project 3 
-
+#### Overview of Part 1:
+#### Overview of Part 2:
 ## Project 4
 Includes a review of [The Hidden Geometry of Complex, Network-Driven Contagion Phenomena by Brockmann & Helbing](https://science.sciencemag.org/content/342/6164/1337) with an efficent implementation of it's proprosed infection model and concept of effective distance using between country transport data.
 
