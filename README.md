@@ -21,4 +21,9 @@ Graph below shows the basic features of the network.
 
 ![image](https://user-images.githubusercontent.com/58078485/95978099-9e6b5800-0e11-11eb-9b40-cde51ba4cdd9.png)
 
+Graphs below shows how an infection starting in peru spreads though the network.  
+
+![image](https://user-images.githubusercontent.com/58078485/95978372-fdc96800-0e11-11eb-8ac0-3b10c0b71806.png)
+
+
 
