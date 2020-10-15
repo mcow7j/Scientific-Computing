@@ -15,6 +15,8 @@ Projects undertaken for Scientific Computing Module of Imperial College London. 
 * Efficiently implemented and created modified BFS and Dijkstra’s algorithms with Dictionary’s and Queues to solve a variety of transport problems. 
 * Included asymptotic analysis of their complexity and performance in general, along with discussion of how Binary Heaps and Fibonacci Heaps would improve performance. 
 #### Overview of Part 2:
+* Investigated random walks on Barabasi-Albert Graphs, efficiently simulating for a very large number and length of walks, along with analysing simulation results.  
+* Compared random walk simulations with linear diffusion simulations created using a Laplacian, Scaled Laplacian, and Transpose of Scaled Laplacian on the same graphs.
 ## Project 3 
 -- work in progress--
 #### Overview of Part 1:
