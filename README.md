@@ -19,7 +19,15 @@ Projects undertaken for Scientific Computing Module of Imperial College London. 
 * Compared random walk simulations with linear diffusion simulations created using a Laplacian, Scaled Laplacian, and Transpose of Scaled Laplacian on the same graphs. This included eigenvalue and vector analysis.
 * Efficent implementation and analyse of the following Transport Models with a networkx graph given as input.
 ![image](https://user-images.githubusercontent.com/58078485/96107947-f028e680-0ed4-11eb-8066-dd87840977c5.png)
-* CCompared Laplacian Models with Transport Models.
+* Compared Laplacian Models with Transport Models, shown below is linear model simulation.
+
+![image](https://user-images.githubusercontent.com/58078485/96108672-c3c19a00-0ed5-11eb-8967-ffd07db0ceb1.png)
+
+Shown below is a Model B simulation:
+
+![image](https://user-images.githubusercontent.com/58078485/96109047-2dda3f00-0ed6-11eb-8dda-c51e93bbac5c.png)
+
+
 ## Project 3 
 -- work in progress--
 #### Overview of Part 1:
