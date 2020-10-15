@@ -17,7 +17,9 @@ Projects undertaken for Scientific Computing Module of Imperial College London. 
 #### Overview of Part 2:
 * Investigated random walks on Barabasi-Albert Graphs, efficiently simulating for a very large number and length of walks, along with analysing simulation results.  
 * Compared random walk simulations with linear diffusion simulations created using a Laplacian, Scaled Laplacian, and Transpose of Scaled Laplacian on the same graphs. This included eigenvalue and vector analysis.
-* Efficent implementation and analyse of the follwoing transport models for a variety of networkx graphs.
+* Efficent implementation and analyse of the following Transport Models with a networkx graph given as input.
+![image](https://user-images.githubusercontent.com/58078485/96107947-f028e680-0ed4-11eb-8066-dd87840977c5.png)
+* CCompared Laplacian Models with Transport Models.
 ## Project 3 
 -- work in progress--
 #### Overview of Part 1:
