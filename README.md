@@ -25,7 +25,7 @@ Projects undertaken for Scientific Computing Module of Imperial College London. 
 
 Shown below is a Model B simulation:
 
-![image](https://user-images.githubusercontent.com/58078485/96109047-2dda3f00-0ed6-11eb-8dda-c51e93bbac5c.png)
+![image](https://user-images.githubusercontent.com/58078485/96109195-506c5800-0ed6-11eb-8e8f-184d448d1a2c.png)
 
 
 ## Project 3 
