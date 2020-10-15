@@ -16,7 +16,8 @@ Projects undertaken for Scientific Computing Module of Imperial College London. 
 * Included asymptotic analysis of their complexity and performance in general, along with discussion of how Binary Heaps and Fibonacci Heaps would improve performance. 
 #### Overview of Part 2:
 * Investigated random walks on Barabasi-Albert Graphs, efficiently simulating for a very large number and length of walks, along with analysing simulation results.  
-* Compared random walk simulations with linear diffusion simulations created using a Laplacian, Scaled Laplacian, and Transpose of Scaled Laplacian on the same graphs.
+* Compared random walk simulations with linear diffusion simulations created using a Laplacian, Scaled Laplacian, and Transpose of Scaled Laplacian on the same graphs. This included eigenvalue and vector analysis.
+* Efficent implementation and analyse of the follwoing transport models for a variety of networkx graphs.
 ## Project 3 
 -- work in progress--
 #### Overview of Part 1:
